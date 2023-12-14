@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/manoj/static/css/main.f96f07a4.css",
+    "main.js": "/manoj/static/js/main.94704d02.js",
+    "static/js/787.6c3beca2.chunk.js": "/manoj/static/js/787.6c3beca2.chunk.js",
+    "static/media/1.jpg": "/manoj/static/media/1.0d6e844a15b7a593724c.jpg",
+    "index.html": "/manoj/index.html",
+    "main.f96f07a4.css.map": "/manoj/static/css/main.f96f07a4.css.map",
+    "main.94704d02.js.map": "/manoj/static/js/main.94704d02.js.map",
+    "787.6c3beca2.chunk.js.map": "/manoj/static/js/787.6c3beca2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.94704d02.js"
+  ]
+}
